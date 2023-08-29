@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 I'm a MERN developer<br>🔭 Currently working on `mea platforms`<br>⚡ and parallel brushing up my AWS skills.
+😄 I'm a MERN developer<br>⚡ and parallel brushing up my AWS skills.
 
 
 # 💻 Tech Stack:
