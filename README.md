@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 I'm a MERN developer<br>⚡ and parallel brushing up my AWS skills.
+😄 Hi, I'm MERN Dev. (2 Years)!
 
 
 # 💻 Tech Stack:
